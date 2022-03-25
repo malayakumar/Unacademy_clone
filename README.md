@@ -1,7 +1,7 @@
 # Unacademy Clone
 India's largest learning platform · Prepare for · Competitive exams · Prepare for · Class 6 to 12 · Get the learning app · Start learning with Unacademy.
 
-As a member from the FT-Web12, we are almost on the verge of completion of the 5th unit and it was during the final week which is depicted as the construct week in Masai Bootcamp where the students as a group of 4 build the clone of any major website and the one allotted for my team was “unacademy.com”.
+As a member from the FT-Web13, we are almost on the verge of completion of the 5th unit and it was during the final week which is depicted as the construct week in Masai Bootcamp where the students as a group of 4 build the clone of any major website and the one allotted for my team was “unacademy.com”.
 
 # Deploy Link
 https://studyclone.netlify.app/
